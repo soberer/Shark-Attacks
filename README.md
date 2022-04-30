@@ -4,7 +4,7 @@
 
 This app was created as a final project for Chase Romano's Visual Analytics class in the Data Science and Business Analytics Master's program at the University of North Carolina at Charlotte. 
 
-To view the live app go to xxxx
+To view the live app go to **xxxx**
 
 <hr>
 
