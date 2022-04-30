@@ -10,7 +10,7 @@ To view the live app go to **xxxx**
 
 <h5> Follow these steps if you would like to download the project files and run it instead of going to the link above: <h5>
 <ol>
-  <li>Download all of the items in the <em>Shark-Attacks</em> folder</li>
+  <li>Download all of the items in the <u>Shark-Attacks</u> folder</li>
   <li>Open <b>finalapp.Rproj</b> in R Studio</li>
   <li>Open the file named <b>dashboard.R</b></li>
   <li>Click "Run App" in the upper right corner of the code panel</li>
