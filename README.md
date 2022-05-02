@@ -8,7 +8,7 @@ To view the live app go to <ins>xxxx</ins>
 
 <hr>
 
-<h7> Follow these steps if you would like to download the project files and run it instead of going to the link above: <h5>
+<h6> Follow these steps if you would like to download the project files and run it instead of going to the link above: <h5>
 <ol>
   <li>Download all of the items in the <ins>Shark-Attacks</ins> folder</li>
   <li>Open <ins>finalapp.Rproj</ins> in R Studio</li>
@@ -18,7 +18,7 @@ To view the live app go to <ins>xxxx</ins>
 </ol>
 
 
-<h7>Data Sources</h5>
+<h6>Data Sources</h5>
 
 You may access the data from the Kaggle website using the link below:
 <ul>
