@@ -1,0 +1,13 @@
+name: Shark_attacks
+title: Shark_attacks
+username:
+account: dsba5122-spring-2022-lr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6215766
+bundleId: 5861101
+url: https://dsba5122-spring-2022-lr.shinyapps.io/Shark_attacks/
+when: 1651509958.76989
+lastSyncTime: 1651509958.76989
+asMultiple: FALSE
+asStatic: FALSE
