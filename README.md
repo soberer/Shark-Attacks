@@ -14,8 +14,9 @@ To view the live app go to <ins>xxxx</ins>
   <li>Open <ins>finalapp.Rproj</ins> in R Studio</li>
   <li>Open the file named <ins>dashboard.R</ins></li>
   <li>Click <ins>"Run App"</ins> in the upper right corner of the code panel</li>
-Optional step: Click <ins>"Open in Browser"</ins> in the upper left corner of the app window if you would like to view in browser
 </ol>
+  
+  Optional step: Click <ins>"Open in Browser"</ins> in the upper left corner of the app window if you would like to view in browser
 
 
 <h5>Data Sources</h5>
