@@ -4,7 +4,7 @@
 
 This app was created as a final project for Chase Romano's Visual Analytics class in the Data Science and Business Analytics Master's program at the University of North Carolina at Charlotte in order to explore shark attacks that have occurred globally from 1968 to 2018.
 
-To view the live app go to <ins>xxxx</ins>
+To view the live app click [here](https://dsba5122-spring-2022-lr.shinyapps.io/Shark_attacks/).
 
 <hr>
 
