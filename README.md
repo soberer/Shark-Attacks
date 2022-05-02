@@ -10,9 +10,7 @@ To view the live app click [here](https://dsba5122-spring-2022-lr.shinyapps.io/S
 
 <h5> Follow these steps if you would like to download the project files and run it instead of going to the link above: <h5>
 <ol>
-  <li>Download the <ins>Shark_Attacks.zip</ins> from the <ins>Shark_Attacks_zip</ins> folder</li>
-  <li>Extract the <ins>Shark_Attacks.zip</ins></li>
-  <li>Open extracted <ins>Shark_Attacks</ins></li>
+  <li>Download all of the items in the <ins>Shark_Attacks_files</ins> folder</li>
   <li>Open <ins>my dashboard.Rproj</ins> in R Studio</li>
   <li>Open the file named <ins>dashboard_final.R</ins></li>
   <li>Click <ins>Run App</ins> in the upper right corner of the code panel</li>
